@@ -1,0 +1,11 @@
+<properties>
+
+    <lengthArenaX>500</lengthArenaX>
+    <lengthArenaY>900</lengthArenaY>
+
+    <enemySkin>skins/carLightBlue100x200.png</enemySkin>
+    <playerSkin>skins/playerSkin100x200.png</playerSkin>
+    <playerSkinLeft>skins/playerSkinLeft100x200.png</playerSkinLeft>
+    <playerSkinRight>skins/playerSkinRight100x200.png</playerSkinRight>
+    <roadSkin>skins/road500x1000.png</roadSkin>
+</properties>
